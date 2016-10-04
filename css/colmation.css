@@ -1,0 +1,91 @@
+a
+{
+	color:black;
+	text-decoration:none;
+	padding:3px;
+}
+
+table
+{
+	background-color:white;
+	padding:3px;
+	-moz-border-radius:5px;
+}
+
+td
+{
+	padding:3px;
+	-moz-border-radius:5px;
+}
+
+textarea
+{
+	border-style:solid;
+	border-color:#e5e5e5;
+	-moz-border-radius:5px;
+	padding:5px;
+	background-color:#f0f0f0;
+	color:#223355;
+}
+
+textarea:hover
+{
+	border-color:#e0e0e0;
+	background-color:white;
+}
+
+textarea:focus
+{
+	border-color:#cccccc;
+	-moz-border-radius:5px;
+	background-color:white;
+}
+
+select
+{
+	border-style:solid;
+	border-color:#d5d5d5;
+	-moz-border-radius:5px;
+	padding:5px;
+}
+
+input
+{
+	border-style:solid;
+	border-color:#e5e5e5;
+	-moz-border-radius:5px;
+	padding:5px;
+	background-color:#f0f0f0;
+	color:#223355;
+}
+
+input:hover
+{
+	border-color:#e0e0e0;
+	background-color:white;
+}
+
+input:focus
+{
+	border-color:#cccccc;
+	-moz-border-radius:5px;
+	background-color:white;
+}
+
+select:hover
+{
+	border-color:#ddddee;
+}
+/*
+select:focus
+{
+	border-color:#ddddff;
+}
+*/
+td.one
+{
+	border-style:solid;
+	border-color:#e5e5e5;
+	-moz-border-radius:5px;
+}
+
